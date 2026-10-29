@@ -166,9 +166,9 @@ If installation fails while fetching optional `onnxruntime-node` binaries on a r
 
 ## Deployment
 
-AFTERHOURS is configured for static hosting and includes a `render.yaml` Blueprint for [Render](https://render.com/).
+### Deployed Link - https://afterhours-cszu.onrender.com/
 
-The configured build command is:
+The configured build command for local host is:
 
 ```bash
 npm install && npm run build
