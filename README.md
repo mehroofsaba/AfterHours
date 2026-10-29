@@ -8,6 +8,10 @@ No accounts. No cloud database for your writing. No pressure to turn every thoug
 
 Just you, your words, and a place to keep them.
 
+<p align="center">
+  <img src="assets/Afterhours.png" alt="AFTERHOURS landing page" width="100%">
+</p>
+
 ## The Rooms
 
 ### The Memory Cabinet
@@ -21,6 +25,10 @@ A place for memories worth keeping.
 - Use AI to reshape a memory into a poem, a literary passage, or a polished keepsake.
 
 AI-generated versions sit beside the original, so the memory remains yours.
+
+<p align="center">
+  <img src="assets/memories.png" alt="The three rooms of AFTERHOURS" width="100%">
+</p>
 
 ### The Lost & Found
 
@@ -55,6 +63,9 @@ AFTERHOURS is designed as one connected, atmospheric space rather than a collect
 - **An archive that stays yours:** Keep your writing organised without accounts or a remote journal database.
 
 The interface is intentionally restrained: dark wine tones, aged paper, wax seals, and the feeling of opening a letter long after midnight.
+
+<p align="center">
+  <img src="assets/THEarchives.png" alt="The Memory Cabinet" width="49%">
 
 ## AI, Without Taking Over
 
